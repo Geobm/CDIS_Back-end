@@ -6,7 +6,7 @@ Basic console program that prints a pyramid of "#" with height entered by the us
 ### CDIS_Bank
 Console application that stores an maximum of up to 10 withdrawals and prints the amount of bills and coins delivered
 
-### Student/Student
+### Student
 Console application that implements inheritance, polymorphism and exceptions simulating the assignation of scholarships to students depending on the academic grade
 
 ### School
