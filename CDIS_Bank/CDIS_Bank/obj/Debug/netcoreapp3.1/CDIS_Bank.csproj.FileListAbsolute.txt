@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\bin\Debug\netcoreapp3.1\CDIS_Bank.exe
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\bin\Debug\netcoreapp3.1\CDIS_Bank.deps.json
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\bin\Debug\netcoreapp3.1\CDIS_Bank.runtimeconfig.json
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\bin\Debug\netcoreapp3.1\CDIS_Bank.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\bin\Debug\netcoreapp3.1\CDIS_Bank.dll
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\bin\Debug\netcoreapp3.1\CDIS_Bank.pdb
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\obj\Debug\netcoreapp3.1\CDIS_Bank.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\obj\Debug\netcoreapp3.1\CDIS_Bank.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\obj\Debug\netcoreapp3.1\CDIS_Bank.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\obj\Debug\netcoreapp3.1\CDIS_Bank.dll
+C:\Users\Administrador\source\repos\CDIS_Bank\CDIS_Bank\obj\Debug\netcoreapp3.1\CDIS_Bank.pdb
