@@ -1,0 +1,31 @@
+using System;
+					
+public class Pyramid
+{
+	public static void Main()
+	{
+	
+		int height,line,hashes,spaces;
+
+    do
+    {
+        Console.WriteLine("Altura: ");
+        height = int.Parse(Console.ReadLine());
+    }
+    while (height < 0 || height > 25);
+
+    for (line = 0; line < height ; line++)
+    {
+        for (spaces = height - line; spaces > 1; spaces--)
+        {
+            Console.Write(" ");
+        }
+        for (hashes = 0; hashes < line + 1; hashes++)
+        {
+            Console.Write("#");
+        }
+        Console.Write("\n");
+		
+		}
+	}
+}
