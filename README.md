@@ -1,5 +1,6 @@
 # CIDS-Training
 Advanced web development course in .NET
+
 ### Pyramid.cs
 Basic console program that prints a pyramid of "#" with height entered by the user between 0 and 25
 
@@ -11,3 +12,5 @@ Console application that implements inheritance, polymorphism and exceptions sim
 
 ### School
 Web aplication implementing CRUD (Create, Read, Update, Delet) operations with SQL Server stored procedures. Implementing also a three layer architecture which are BLL (Business Logic layer), DAL (Data access layer) and the view layer.
+
+
