@@ -1,4 +1,4 @@
-# CIDS-Training
+# CDIS-Training
 Advanced web development course in .NET
 
 ### Pyramid.cs
