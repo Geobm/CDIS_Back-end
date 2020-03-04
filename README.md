@@ -1,5 +1,5 @@
 # CDIS-Training
-Advanced web development course in .NET
+Advanced web development course in .NET focused on back-end development 
 
 ### Pyramid.cs
 Basic console program that prints a pyramid of "#" with height entered by the user between 0 and 25
