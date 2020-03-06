@@ -11,6 +11,7 @@ Console application that stores an maximum of up to 10 withdrawals and prints th
 Console application that implements inheritance, polymorphism and exceptions simulating the assignation of scholarships to students depending on the academic grade
 
 ### School
-Web aplication implementing CRUD (Create, Read, Update, Delet) operations with SQL Server stored procedures. Implementing also a three layer architecture which are BLL (Business Logic layer), DAL (Data access layer) and the view layer.
+Web aplication implementing CRUD (Create, Read, Update, Delet) operations with SQL Server stored procedures. Implementing a three layer architecture, BLL (Business Logic layer), DAL (Data access layer) and the view layer.
 
-
+### Advanced_School
+Same School aplication but implementing validations, state preservation variables, a little of web design without any framework, implementing also an entitites model with transactions and LINQ.
