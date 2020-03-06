@@ -14,4 +14,4 @@ Console application that implements inheritance, polymorphism and exceptions sim
 Web aplication implementing CRUD (Create, Read, Update, Delet) operations with SQL Server stored procedures. Implementing a three layer architecture, BLL (Business Logic layer), DAL (Data access layer) and the view layer.
 
 ### Advanced_School
-Same School aplication but implementing validations, state preservation variables, a little of web design without any framework, implementing also an entitites model with transactions and LINQ.
+Same School aplication but implementing validations, state preservation variables, a little of web design without any framework, implementing also an entitites model using transactions with LINQ.
