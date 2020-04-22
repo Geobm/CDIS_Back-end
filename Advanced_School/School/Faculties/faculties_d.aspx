@@ -62,7 +62,7 @@
                     changeMonth: true,
                     changeYear: true,
                     yearRange: "1900:2010",
-                    dateFormat: "dd-mm-yy"
+                    dateFormat: "dd-mm-yyyy"
                 });
 
                 $(".Lista").chosen();
