@@ -78,7 +78,7 @@ namespace CDIS_Bank
                                 value = temp;
                                 //Console.WriteLine("Withdraw # "+(i+1));
                                 //Console.WriteLine("bills "+bills[i]+"coins "+coins[i]);
-                                //      Console.WriteLine("Billetes de 500: " + b500);
+                                      Console.WriteLine("Billetes de 500: " + b500);
                             }
                             //200bills
                             if (value >= 200)
@@ -86,7 +86,7 @@ namespace CDIS_Bank
                                 b200 = value / 200;
                                 temp = value % 200;
                                 value = temp;
-                                //      Console.WriteLine("Billetes de 200: " + b200);
+                                  Console.WriteLine("Billetes de 200: " + b200);
                             }
                             //100bills
                             if (value >= 100)
@@ -94,7 +94,7 @@ namespace CDIS_Bank
                                 b100 = value / 100;
                                 temp = value % 100;
                                 value = temp;
-                                //      Console.WriteLine("Billetes de 100: " + b100);
+                                      Console.WriteLine("Billetes de 100: " + b100);
                             }
                             //50bills
                             if (value >= 50)
@@ -102,7 +102,7 @@ namespace CDIS_Bank
                                 b50 = value / 50;
                                 temp = value % 50;
                                 value = temp;
-                                //Console.WriteLine("Billetes de 50: " + b50);
+                                      Console.WriteLine("Billetes de 50: " + b50);
                             }
                             //20bills
                             if (value >= 20)
@@ -110,7 +110,7 @@ namespace CDIS_Bank
                                 b20 = value / 20;
                                 temp = value % 20;
                                 value = temp;
-                                // Console.WriteLine("Billetes de 20: " + b20);
+                                     Console.WriteLine("Billetes de 20: " + b20);
                             }
 
                             //10 coins
@@ -119,7 +119,7 @@ namespace CDIS_Bank
                                 m10 = value / 10;
                                 temp = value % 10;
                                 value = temp;
-                                //         Console.WriteLine("Monedas de 10: " + m10);
+                                      Console.WriteLine("Monedas de 10: " + m10);
                             }
                             //5 coins
                             if (value >= 5)
@@ -127,7 +127,7 @@ namespace CDIS_Bank
                                 m5 = value / 5;
                                 temp = value % 5;
                                 value = temp;
-                         //       Console.WriteLine("Monedas de 5: " + m5);
+                                     Console.WriteLine("Monedas de 5: " + m5);
                             }
                             //1 coins
                             if (value >= 4)
@@ -136,7 +136,7 @@ namespace CDIS_Bank
                                 temp = value % 4;
                                 value = temp;
                                 m1 *= 4;
-                                //Console.WriteLine("monedas de 1 "+m1);
+                                Console.WriteLine("monedas de 1 "+m1);
                             }
                             if (value >= 3) {
                             
@@ -144,7 +144,7 @@ namespace CDIS_Bank
                             temp = value % 3;
                             value = temp;
                                 m1 *= 3;
-                                // Console.WriteLine("monedas de 1 " + m1);
+                                Console.WriteLine("monedas de 1 " + m1);
                             }
                             if (value >= 2)
                             {
@@ -153,7 +153,7 @@ namespace CDIS_Bank
                                 value = temp;
                                 m1 *= 2;
 
-                                //    Console.WriteLine("monedas de 1 " + m1);
+                                   Console.WriteLine("monedas de 1 " + m1);
                             }
                             if (value >= 1)
                             {
@@ -162,7 +162,7 @@ namespace CDIS_Bank
                                 value = temp;
                                 m1 *= 1;
                                break;
-                            //  Console.WriteLine("monedas de 1 " + m1);
+                                   Console.WriteLine("monedas de 1 " + m1);
                             }
                          
                             bills[i] = b500 + b200 + b100 + b50 + b20;
